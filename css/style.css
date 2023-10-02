@@ -93,6 +93,7 @@
   .text3{
     display: flex;
     flex-direction: column;
+  
   }
 
   .button-box3{
@@ -106,4 +107,7 @@
   }
   .fa-chevron-right{
     margin-left:85%;
+  }
+  .fa-up-right-from-square{
+    margin-left: 90%;
   }
