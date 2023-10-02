@@ -92,3 +92,16 @@
     background-color: #F6F6F6;
     cursor: pointer;
   }
+  .text3{
+    display: flex;
+    flex-direction: column;
+  }
+  .button-box3{
+    margin-bottom: 2rem;
+    background-color: transparent;
+    border: 0;
+    margin-left: 15px;
+  }
+  .box-3-off{
+    display: flex;
+  }
